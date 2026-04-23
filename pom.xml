@@ -26,6 +26,8 @@
         <module>EnrollMentService</module>
         <module>StudentService</module>
         <module>TeacherService</module>
+        <module>eureka</module>
+        <module>Gateway</module>
     </modules>
 
 </project>
